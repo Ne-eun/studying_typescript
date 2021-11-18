@@ -18,7 +18,7 @@
       this.coffeeBeans = beans;
     }
 
-    // 바로 클래스에 접근해서 함수 실행 가능
+    // 바로 객체를 만들어서 리턴함
     static coffeeMaker(beans: number): CoffeeMaker {
       return new CoffeeMaker(beans);
     }
