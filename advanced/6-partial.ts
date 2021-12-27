@@ -6,6 +6,7 @@
     priority: 'high' | 'low';
   };
 
+  // partial 부분적인 것만 승인됨
   function updateTodo(todo: ToDo, fieldsToUpdate: Partial<ToDo>): ToDo {
     return { ...todo, ...fieldsToUpdate };
   }
