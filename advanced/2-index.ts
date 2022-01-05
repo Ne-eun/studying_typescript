@@ -1,4 +1,5 @@
 {
+  // 타입을 object처럼 key를 가지고 value를 받아올 수 있음
   const obj = {
     name: 'ellie',
   };
