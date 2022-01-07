@@ -1,0 +1,6 @@
+export * from './curry'
+export * from './pipe'
+export * from './wrap'
+export * from './resolve'
+export * from './delegate'
+export * from './as.promise'
