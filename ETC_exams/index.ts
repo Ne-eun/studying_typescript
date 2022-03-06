@@ -1,9 +1,6 @@
 import { asPromise, curry, delegate, pipe, resolve, resolveFunc, wrap } from './functional'
 import { Singleton } from './singleton'
 
-import dotenv from 'dotenv'
-dotenv.config({ path: `${__dirname}/.env/default.env` })
-
 /**
  * 싱글톤 패턴 예제
  */

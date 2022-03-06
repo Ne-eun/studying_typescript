@@ -1,6 +1,4 @@
-# ✍Studying of Typescript
-
-### **dream_coding**
+# **dream_coding**
 
 https://academy.dream-coding.com/  
  드림코딩의 타입스크립트 + 객체지향 프로그래밍 마스터 온라인 강의를 들으면서 정리한 내용
@@ -11,9 +9,3 @@ https://academy.dream-coding.com/
 **OOP :** 객체지향! Typescript class로 로직 구현하기
 **types :** 기본 타입 정리  
 **types_quiz :** 간단한 타입 만들어보기 숙제
-
----
-
-### **ETC_exams**
-
-제너릭타입을 활용하여 제작된 여러가지 함수패턴
